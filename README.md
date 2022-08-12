@@ -1,7 +1,7 @@
 
 ## Hi I'm Salman Shah 🏴_face:
 
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Salman")
+![Salman](https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fwww.freelancinggig.com%2Fblog%2Fwp-content%2Fuploads%2F2017%2F09%2FProgramming-Languages-for-Windows-Application.jpg&imgrefurl=https%3A%2F%2Fwww.freelancinggig.com%2Fblog%2F2017%2F09%2F22%2Fbest-programming-languages-windows-application%2F&tbnid=uAqqd1gsfto1iM&vet=12ahUKEwjsl-WH7sH5AhWeitgFHZ01CqYQMygIegUIARDdAQ..i&docid=hZWD7_tJMH3MTM&w=750&h=441&q=programming%20application&ved=2ahUKEwjsl-WH7sH5AhWeitgFHZ01CqYQMygIegUIARDdAQ "Salman")
 
 :computer: _Software Engenieer at [tataaig.com](https://github.com/fitnezzio)_ :Living in Sakinaka Mumbai 🇮🇳:
 
