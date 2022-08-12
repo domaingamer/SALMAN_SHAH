@@ -3,7 +3,7 @@
 
 ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Salman")
 
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+:computer: _Software Engenieer at [tataaig.com](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
 ### My Tech Stack
 
